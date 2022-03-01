@@ -56,6 +56,7 @@ module StripeMock
         'checkout.session.completed.setup_mode',
         'customer.source.created',
         'customer.source.deleted',
+        'customer.source.expiring',
         'customer.source.updated',
         'customer.created',
         'customer.updated',
