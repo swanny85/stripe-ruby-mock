@@ -2,7 +2,7 @@
   "created": 1326853478,
   "livemode": false,
   "id": "evt_00000000000000",
-  "type": "customer.source.deleted",
+  "type": "customer.source.expiring",
   "object": "event",
   "data": {
     "object": {
